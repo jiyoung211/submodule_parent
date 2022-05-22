@@ -1,6 +1,8 @@
 [submodule "child"]
 	path = child
 	url = https://jiyoung211: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@github.com/jiyoung211/submodule_child.git
+	branch = main
 [submodule "child2"]
 	path = child2
 	url = https://jiyoung211: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@github.com/jiyoung211/submodule_child.git
+	branch = master
